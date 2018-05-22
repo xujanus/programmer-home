@@ -70,12 +70,12 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter</artifactId>
         </dependency>
-        <!-- 服务注册 -->
+        <!-- 服务注册（先关闭，需要服务注册时，取消下面的注释）
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka</artifactId>
             <version>1.4.4.RELEASE</version>
-        </dependency>
+        </dependency>-->
         <!-- *************spring cloud 框架************** -->
 
         <!-- 工具框架 -->
